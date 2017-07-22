@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Hardware Repair",
+    "description": "Mauris molestie, diam sit amet sodales tincidunt, augue justo interdum leo, eu dictum purus justo ut eros. Maecenas in iaculis orci. Aliquam in lacus sagittis, gravida quam sed, finibus justo. Suspendisse euismod diam dolor, nec imperdiet diam volutpat sed. Quisque et facilisis risus. Aenean sollicitudin, ipsum sit amet semper sollicitudin, ipsum mauris vehicula urna, lacinia mattis nibh justo id enim. Duis ullamcorper urna id commodo mattis. Nullam at diam eget nunc tempor feugiat vel ut elit. Proin eu diam quam. Phasellus interdum diam a neque consequat luctus. Maecenas congue magna nec libero egestas, ac bibendum ex fermentum. Nunc venenatis dictum libero, at porttitor tortor lobortis vel. Sed ac orci ante. Curabitur eu lacus venenatis, congue nibh non, pulvinar odio. Aliquam quis consequat ligula. Suspendisse consequat enim at leo posuere rutrum.",
+    "image": "Download-Computer-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Virus Removal",
+    "description": "Mauris molestie, diam sit amet sodales tincidunt, augue justo interdum leo, eu dictum purus justo ut eros. Maecenas in iaculis orci. Aliquam in lacus sagittis, gravida quam sed, finibus justo. Suspendisse euismod diam dolor, nec imperdiet diam volutpat sed. Quisque et facilisis risus. Aenean sollicitudin, ipsum sit amet semper sollicitudin, ipsum mauris vehicula urna, lacinia mattis nibh justo id enim. Duis ullamcorper urna id commodo mattis. Nullam at diam eget nunc tempor feugiat vel ut elit. Proin eu diam quam. Phasellus interdum diam a neque consequat luctus. Maecenas congue magna nec libero egestas, ac bibendum ex fermentum. Nunc venenatis dictum libero, at porttitor tortor lobortis vel. Sed ac orci ante. Curabitur eu lacus venenatis, congue nibh non, pulvinar odio. Aliquam quis consequat ligula. Suspendisse consequat enim at leo posuere rutrum.",
+    "image": "Download-Computer-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "Sytem Tuneup",
+    "description": "Mauris molestie, diam sit amet sodales tincidunt, augue justo interdum leo, eu dictum purus justo ut eros. Maecenas in iaculis orci. Aliquam in lacus sagittis, gravida quam sed, finibus justo. Suspendisse euismod diam dolor, nec imperdiet diam volutpat sed. Quisque et facilisis risus. Aenean sollicitudin, ipsum sit amet semper sollicitudin, ipsum mauris vehicula urna, lacinia mattis nibh justo id enim. Duis ullamcorper urna id commodo mattis. Nullam at diam eget nunc tempor feugiat vel ut elit. Proin eu diam quam. Phasellus interdum diam a neque consequat luctus. Maecenas congue magna nec libero egestas, ac bibendum ex fermentum. Nunc venenatis dictum libero, at porttitor tortor lobortis vel. Sed ac orci ante. Curabitur eu lacus venenatis, congue nibh non, pulvinar odio. Aliquam quis consequat ligula. Suspendisse consequat enim at leo posuere rutrum.",
+    "image": "Download-Computer-icon.png"
+  }
+]

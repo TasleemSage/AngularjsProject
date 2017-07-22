@@ -1,0 +1,29 @@
+[
+  {
+    "id":1,
+    "name": "Cape Town Branch",
+    "street_address": "555 Western Ave",
+    "city": "Cape Town",
+    "province": "WP",
+    "zip": "8001",
+    "phone": "021-555-5555"
+  },
+  {
+    "id":2,
+    "name": "Durban Branch",
+    "street_address": "522 Eastern Ave",
+    "city": "Durban North",
+    "province": "DB",
+    "zip": "9001",
+    "phone": "021-222-2222"
+  },
+  {
+    "id":3,
+    "name": "Johannesburg Branch",
+    "street_address": "333 South Ave",
+    "city": "Johannesburg",
+    "province": "JB",
+    "zip": "6001",
+    "phone": "021-333-3333"
+  }
+]
